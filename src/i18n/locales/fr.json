@@ -1,0 +1,84 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "projects": "Projets",
+    "skills": "Compétences",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Développeur Full Stack",
+    "subtitle": "Création d'applications web modernes avec des technologies de pointe",
+    "description": "Spécialisé dans la création de solutions évolutives et conviviales qui favorisent la croissance des entreprises. Avec une expertise en React, TypeScript et technologies cloud, je transforme les idées en réalité.",
+    "viewWork": "Voir Mes Travaux",
+    "getInTouch": "Me Contacter",
+    "downloadCV": "Télécharger CV"
+  },
+  "about": {
+    "title": "À Propos",
+    "heading": "Passionné par la Création d'Expériences Numériques",
+    "paragraph1": "Avec plus de 5 ans d'expérience dans le développement web, je me spécialise dans la création d'applications modernes et réactives qui résolvent des problèmes réels.",
+    "paragraph2": "Mon parcours dans la technologie a commencé par une curiosité sur le fonctionnement du web, et il a évolué en une carrière où je construis des produits incroyables chaque jour.",
+    "paragraph3": "J'apprends constamment de nouvelles technologies et les meilleures pratiques pour rester à la pointe du développement web, en veillant à ce que chaque projet utilise les meilleurs outils disponibles.",
+    "cleanCode": "Code Propre",
+    "cleanCodeDesc": "Écriture de code maintenable et évolutif suivant les meilleures pratiques et normes de l'industrie.",
+    "fastDelivery": "Livraison Rapide",
+    "fastDeliveryDesc": "Processus de développement efficace garantissant une livraison dans les délais sans compromettre la qualité.",
+    "collaboration": "Collaboration",
+    "collaborationDesc": "Solides compétences en communication et expérience de travail dans des équipes agiles et interfonctionnelles."
+  },
+  "projects": {
+    "title": "Projets Vedettes",
+    "subtitle": "Une sélection de mes travaux récents présentant diverses technologies et approches de résolution de problèmes",
+    "viewAll": "Voir Tous Les Projets",
+    "demo": "Démo",
+    "code": "Code",
+    "allProjects": "Tous Les Projets",
+    "search": "Rechercher des projets...",
+    "filterBy": "Filtrer par:",
+    "allCategories": "Toutes Les Catégories",
+    "allTechnologies": "Toutes Les Technologies",
+    "noResults": "Aucun projet trouvé correspondant à vos critères",
+    "backToHome": "Retour à l'Accueil",
+    "projectDetails": "Détails du Projet",
+    "overview": "Aperçu",
+    "technologies": "Technologies Utilisées",
+    "features": "Fonctionnalités Clés",
+    "challenges": "Défis et Solutions",
+    "videoDemo": "Démo Vidéo",
+    "links": "Liens du Projet",
+    "relatedProjects": "Projets Connexes"
+  },
+  "skills": {
+    "title": "Compétences et Expertise",
+    "subtitle": "Technologies et outils que j'utilise pour donner vie aux idées"
+  },
+  "contact": {
+    "title": "Contactez-Moi",
+    "subtitle": "Vous avez un projet en tête ou souhaitez collaborer? J'aimerais avoir de vos nouvelles!",
+    "information": "Informations de Contact",
+    "email": "Email",
+    "phone": "Téléphone",
+    "location": "Localisation",
+    "name": "Nom",
+    "namePlaceholder": "Votre nom",
+    "emailPlaceholder": "votre.email@exemple.com",
+    "message": "Message",
+    "messagePlaceholder": "Parlez-moi de votre projet...",
+    "send": "Envoyer",
+    "success": "Merci de nous avoir contactés! Je vous répondrai bientôt."
+  },
+  "footer": {
+    "rights": "Portfolio Professionnel. Tous droits réservés."
+  },
+  "ai": {
+    "title": "Assistant IA",
+    "online": "En ligne",
+    "placeholder": "Tapez votre message...",
+    "send": "Envoyer"
+  },
+  "theme": {
+    "light": "Mode Clair",
+    "dark": "Mode Sombre"
+  }
+}

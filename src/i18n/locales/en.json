@@ -1,0 +1,84 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "skills": "Skills",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Full Stack Developer",
+    "subtitle": "Building modern web applications with cutting-edge technologies",
+    "description": "Specialized in creating scalable, user-friendly solutions that drive business growth. With expertise in React, TypeScript, and cloud technologies, I transform ideas into reality.",
+    "viewWork": "View My Work",
+    "getInTouch": "Get In Touch",
+    "downloadCV": "Download CV"
+  },
+  "about": {
+    "title": "About Me",
+    "heading": "Passionate About Building Digital Experiences",
+    "paragraph1": "With over 5 years of experience in web development, I specialize in creating modern, responsive applications that solve real-world problems.",
+    "paragraph2": "My journey in tech started with a curiosity about how things work on the web, and it has evolved into a career where I get to build amazing products every day.",
+    "paragraph3": "I'm constantly learning new technologies and best practices to stay at the forefront of web development, ensuring every project I work on uses the best tools available.",
+    "cleanCode": "Clean Code",
+    "cleanCodeDesc": "Writing maintainable, scalable code following best practices and industry standards.",
+    "fastDelivery": "Fast Delivery",
+    "fastDeliveryDesc": "Efficient development process ensuring timely delivery without compromising quality.",
+    "collaboration": "Collaboration",
+    "collaborationDesc": "Strong communication skills and experience working in agile, cross-functional teams."
+  },
+  "projects": {
+    "title": "Featured Projects",
+    "subtitle": "A selection of my recent work showcasing various technologies and problem-solving approaches",
+    "viewAll": "View All Projects",
+    "demo": "Demo",
+    "code": "Code",
+    "allProjects": "All Projects",
+    "search": "Search projects...",
+    "filterBy": "Filter by:",
+    "allCategories": "All Categories",
+    "allTechnologies": "All Technologies",
+    "noResults": "No projects found matching your criteria",
+    "backToHome": "Back to Home",
+    "projectDetails": "Project Details",
+    "overview": "Overview",
+    "technologies": "Technologies Used",
+    "features": "Key Features",
+    "challenges": "Challenges & Solutions",
+    "videoDemo": "Video Demo",
+    "links": "Project Links",
+    "relatedProjects": "Related Projects"
+  },
+  "skills": {
+    "title": "Skills & Expertise",
+    "subtitle": "Technologies and tools I use to bring ideas to life"
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "subtitle": "Have a project in mind or want to collaborate? I'd love to hear from you!",
+    "information": "Contact Information",
+    "email": "Email",
+    "phone": "Phone",
+    "location": "Location",
+    "name": "Name",
+    "namePlaceholder": "Your name",
+    "emailPlaceholder": "your.email@example.com",
+    "message": "Message",
+    "messagePlaceholder": "Tell me about your project...",
+    "send": "Send Message",
+    "success": "Thanks for reaching out! I'll get back to you soon."
+  },
+  "footer": {
+    "rights": "Professional Portfolio. All rights reserved."
+  },
+  "ai": {
+    "title": "AI Assistant",
+    "online": "Online",
+    "placeholder": "Type your message...",
+    "send": "Send"
+  },
+  "theme": {
+    "light": "Light Mode",
+    "dark": "Dark Mode"
+  }
+}
